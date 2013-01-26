@@ -1,0 +1,17 @@
+h1= title
+#howto 
+	.howtoText How to use the API:
+	ul#list
+		li <b>/tiny/[website.com]</b> &mdash; Returns a tinyed id.* 
+		li <b>/x/[id]</b> &mdash; Redirects to tinyed website.
+		li <b>/stats/[id]</b> &mdash; Returns visits and the full URL.
+	.note * Do not use 'http://' infront of the url and use 'encodeURIComponent(url)' 
+		| when using /tiny/
+#sofar
+	#total #{total} url's
+	|  have been shortened so far
+
+
+#footer
+	a(href='https://github.com/shahzeb1', target='blank')
+		img(src='/images/github_icon.png', width='30px', title='Shahzeb1's github')

@@ -1,0 +1,67 @@
+body {
+  padding: 30px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+ 	text-decoration: none;
+	color: white;
+}
+
+h1{
+	font-size: 30pt;
+}
+/*
+	API text
+*/
+#howto{
+	background: #E0E0E0;
+	margin: 20px;
+	padding: 20px;
+}
+
+.howtoText{
+	font-size: 20pt;
+}
+
+li{
+	list-style-type: none;
+	margin: 5px;
+	font-size: 12pt;
+}
+
+.note{
+	font-size: 10pt;
+	margin-top: 40px;
+}
+/*
+	Stats
+*/
+#sofar{
+	margin-top: 100px;
+	text-align: center;
+	font-style: italic;
+	color: gray;
+}
+
+#total{
+	background: white;
+	font-size: 50pt;
+	color: black;
+}
+
+/*
+	Footer
+*/
+#footer{
+	margin-top: 80px;
+	color: white;
+	background: black;
+	text-align: right;
+	padding: 5px;
+}
+
+
+
+
+
