@@ -1,5 +1,6 @@
 # NodeJS TinyURL Service
-##  Powered by Node.js, Express.js, and Reddis
+## Run your own URL shrinking service such as *bit.ly* or *goo.gl*.
+###  Powered by Node.js, Express.js, and Reddis.
 
 ### Install:
 -   `$ git clone git://github.com/shahzeb1/nodejs-tinyURL.git`
